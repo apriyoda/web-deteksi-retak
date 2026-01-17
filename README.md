@@ -6,14 +6,14 @@ Model CNN yang telah dilatih diintegrasikan ke dalam aplikasi web menggunakan fr
 sehingga pengguna dapat dengan mudah mengunggah gambar infrastruktur dan memperoleh hasil prediksi secara langsung melalui antarmuka web. 
 Sistem ini bertujuan untuk mendukung proses inspeksi visual agar menjadi lebih cepat, objektif, dan konsisten dibandingkan dengan pemeriksaan manual.
 
-Manfaat Sistem
+## Manfaat Sistem
 Sistem deteksi retak ini memberikan beberapa manfaat, antara lain:
 Membantu proses inspeksi infrastruktur secara otomatis berbasis citra digital.
 Mengurangi ketergantungan terhadap inspeksi manual yang memerlukan waktu dan tenaga lebih besar.
 Mempercepat proses identifikasi kerusakan awal pada infrastruktur.
 Dapat digunakan sebagai alat bantu pendukung pengambilan keputusan dalam pemeliharaan dan perawatan infrastruktur.
 
-Kelebihan Sistem
+## Kelebihan Sistem
 Adapun kelebihan dari sistem yang dikembangkan, yaitu:
 Menggunakan model Deep Learning (CNN) yang mampu mengenali pola retakan dengan baik.
 Berbasis web, sehingga mudah diakses.
@@ -54,5 +54,6 @@ Aplikasi akan berjalan di browser melalui:
 http://localhost:5000
 
 ## Anggota Kelompok
-- Apriyoda – https://github.com/apriyoda
-- (Tambahkan anggota lain di sini)
+-  Apriyoda Pratama (https://github.com/apriyoda)
+-  Sae Al Chaq      (https://github.com/ALCHAQ)
+-  Faiq Akhmad      (https://github.com/Fa-svg48)
